@@ -82,6 +82,12 @@ body {
   box-shadow: rgba(0, 0, 0, .50)100%, rgba(0, 0, 0, .50)100%, rgba(0, 0, 0, .50);
 }
 
+.btn-outline-success:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(25, 135, 84);
+  border-color: rgb(25, 135, 84);
+}
+
 .text-box {
   font-weight: 200;
   text-align: center;
